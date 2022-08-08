@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(223, 182, 188);
+}
+
+h3 {
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Lobster Two', cursive;
+    margin-top: 30px;
+}
+
+.banner {
+
+    display: flex;
+    justify-content: center;
+    margin: 5%;
+}
+
+div{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
